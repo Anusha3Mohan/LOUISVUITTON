@@ -1,0 +1,46 @@
+*{
+    font-family: "Futura Medium", "Trebuchet MS", Arial, sans-serif;
+}
+
+
+
+.nav-main{
+    display: flex;
+}
+
+.louis{
+    margin-left:440px;
+}
+
+.menu{
+    top:5px ;
+}
+
+/* @font-face{
+    font-family: myFont;
+    src:url(futura.ttf)
+}
+
+h3{
+    font-family: myFont;
+} */
+
+/* .main-img{
+   box-shadow: linear-gradient(rgba(78, 76, 76, 0),#000000be);
+} */
+
+.main-head{
+   position: absolute;
+   top: 70%;
+   text-align: center;
+   bottom:65px;
+   color: white;
+   width: 100%;
+   background:linear-gradient(rgba(255, 255, 255, 0),#24242455);
+}
+
+/* .perfume:hover{
+    position: absolute;
+    margin-top:40px ;
+    z-index: index inherit; 
+} */
